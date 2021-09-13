@@ -22,4 +22,6 @@ if(mysqli_num_rows($run_query) > 0){
 }
 
 //kisu akta
+//adaddashdashjkd
+//date_isodate_set
 ?>
