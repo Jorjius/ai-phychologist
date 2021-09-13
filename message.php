@@ -22,4 +22,10 @@ if(mysqli_num_rows($run_query) > 0){
 }
 
 //kisu akta
+<<<<<<< Updated upstream
+//adaddashdashjkd
+//date_isodate_set
+=======
+//new b
+>>>>>>> Stashed changes
 ?>
