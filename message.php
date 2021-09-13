@@ -21,5 +21,5 @@ if(mysqli_num_rows($run_query) > 0){
     echo "Sorry can't be able to understand you!";
 }
 
-
+//kisu akta
 ?>
